@@ -1,0 +1,14 @@
+python-dotenv
+openai
+streamlit
+ffmpeg-python
+opencv-python
+google-auth
+google-auth-oauthlib
+google-auth-httplib2 
+google-api-python-client
+yt-dlp
+# python3 -m venv myenv
+# to activate env: source myenv/bin/activate
+# pip install -r requirements.txt
+# pip install urllib3==1.26.15
